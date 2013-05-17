@@ -14,6 +14,6 @@
 
 [![](http://appwarp.shephertz.com/images/java_script.png)](https://github.com/shephertz/AppWarpDocs/wiki/HTML5-Home)
 
+[![](https://lh4.googleusercontent.com/-s1DU2gzJuys/UQgPnEX75rI/AAAAAAAArzY/bbLwZSkM7jo/s800/cocos2d-iphone-logo.png)](https://github.com/shephertz/AppWarpDocs/wiki/Cocos2d-Home)
 
 
-https://github.com/shephertz/AppWarpDocs/wiki/Cocos2d-Home
