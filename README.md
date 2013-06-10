@@ -54,4 +54,11 @@
 </a>        
         </td>          
     </tr>    
+    <tr>
+        <td>
+<a href="https://github.com/shephertz/AppWarpDeveloper/wiki/Marmalade-Home">
+   <img src="http://www.madewithmarmalade.com/sites/all/themes/marmalade/images/logo.png">
+</a>        
+        </td> 
+    </tr>
 </table>
