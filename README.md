@@ -50,7 +50,7 @@
         </td>  
         <td>
 <a href="https://github.com/shephertz/AppWarpDeveloper/wiki/HTML5-Home">
-   <img src="http://appwarp.shephertz.com/images/java_script.png">
+   <img src="http://appwarp.shephertz.com/wp-content/themes/twentytwelve/images/devcenter/sdks-icon/HTML5-Icons.png">
 </a>        
         </td>                   
     </tr>    
