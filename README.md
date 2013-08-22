@@ -6,12 +6,12 @@
     <tr>
         <td>
 <a href="https://github.com/shephertz/AppWarpDeveloper/wiki/Android-home">
-   <img src="http://appwarp.shephertz.com/images/android-developer-logo.png">
+   <img src="http://appwarp.shephertz.com/wp-content/themes/twentytwelve/images/devcenter/sdks-icon/android-icon.png">
 </a>        
         </td>
         <td>
 <a href="https://github.com/shephertz/AppWarpDeveloper/wiki/Ios-Home">
-   <img src="http://appwarp.shephertz.com/images/Ios.png">
+   <img src="http://appwarp.shephertz.com/wp-content/themes/twentytwelve/images/devcenter/sdks-icon/iOS-Icon.png">
 </a>        
         </td>
         <td>
